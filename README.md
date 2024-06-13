@@ -3,8 +3,6 @@
 ## Introduction
 Welcome to the **Insightful Q&A Chatbot** application! This chatbot is a powerful tool that can answer your questions in an informative and comprehensive way. It uses large language models to understand your questions and provide accurate answers.
 
-LLM Q&A 
-
 ## Relevant Links
 
 - [Web Application](https://insightful-q-a-chatbot.streamlit.app/)
@@ -74,4 +72,4 @@ For any questions or support, please contact [sahiltambe1996@gmail.com](mailto:s
 
 ---
 
-Thank you for using **Insightful Q&A Chatbot**! We hope this tool helps you find the perfect name for your restaurant.
+Thank you for using **Insightful Q&A Chatbot**!
